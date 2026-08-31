@@ -1,0 +1,29 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Document Body -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M32,24 L62,24 L76,38 L76,82 C76,84.2 74.2,86 72,86 L32,86 C29.8,86 28,84.2 28,82 L28,28 C28,25.8 29.8,24 32,24 Z" />
+    <!-- Fold Corner -->
+    <path
+        android:fillColor="#F1F5F9"
+        android:pathData="M62,24 L76,38 L62,38 Z" />
+    <!-- PDF Red Badge on Document -->
+    <path
+        android:fillColor="#EA1D24"
+        android:pathData="M24,52 L54,52 C56.2,52 58,53.8 58,56 L58,72 C58,74.2 56.2,76 54,76 L24,76 Z" />
+    <!-- PDF Text Lines -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M30,58 L42,58 C44,58 45,59 45,61 C45,63 44,64 42,64 L34,64 L34,70 L30,70 Z M34,61 L34,61 L34,62 L40,62 C40.5,62 41,61.8 41,61.5 C41,61.2 40.5,61 40,61 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M48,58 L54,58 C56,58 57,59.5 57,64 C57,68.5 56,70 54,70 L48,70 Z M52,61 L52,67 L53.5,67 C54.5,67 55,66 55,64 C55,62 54.5,61 53.5,61 Z" />
+    <!-- Subtle document horizontal content lines -->
+    <path
+        android:fillColor="#CBD5E1"
+        android:pathData="M36,44 L56,44 L56,47 L36,47 Z" />
+</vector>

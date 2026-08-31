@@ -1,0 +1,6 @@
+{
+  "name": "HindPDF",
+  "description": "Comprehensive native Android PDF suite with 30+ tools, real-time database sync, push notifications, and Pro features.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
